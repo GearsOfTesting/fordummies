@@ -1,2 +1,3 @@
-# fordummies
-GOST for Dummies
+# GOST for Dummies
+
+Work in progress
