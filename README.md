@@ -1,0 +1,2 @@
+# fordummies
+GOST for Dummies
