@@ -1,3 +1,3 @@
 # GOST for Dummies
 
-Work in progress
+Work in progress...
